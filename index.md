@@ -8,79 +8,39 @@ title: Isaac Newtons's CV
 | <a href="https://lessand-ro.onrender.com">https://lessand-ro.onrender.com</a>
   | <a href="https://github.com/SolbiatiAlessandro">https://github.com/SolbiatiAlessandro</a>
   | <a href="https://www.linkedin.com/in/solbiatialessandro">https://www.linkedin.com/in/solbiatialessandro</a>
+  | <p>+447799648936 </p>
 </div>
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+* Machine Learning Engineer, Facebook *
 
-### Specialized in
+`Climate Change`
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Video ML`
 
+`Assistant`
 
-### Research interests
+`Newsfeed Ranking`
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+* Software Engineer Intern, J.P.Morgan *
 
+## Research
 
-## Education
+* Unsupervised Topic Segmentation of Meetings with BERT embeddings*
+
+## Education 
 
 `1654-1660`
-__The King's School, Grantham.__
+__Politecnico di Milano__
+- Bachelor of Computer Science Engineering
 
 `June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+__Shanghai Tongji University__
+- Bachelor of Computer Science Engineering
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
