@@ -11,9 +11,13 @@ title: Alessandro Solbiati's CV
 
 ## Experience
 
+`2023, San Francisco`
+__Tech Lead, Sustainability Related Ads, Meta__
+- Started with a Hackathon, turned into a Pillar of the Social Impact org in 8 month. We proved that boosting Sustainability Related Ads on Facebook increase incremental revenue by $27B while incentivising sustainable shopping behaviours. Leading a team of 3 Senior ML Engineers + 5 XFNs, we deployed new production ML models for Ads Ranking serving 3B monthly active users and $120B ARR
+
 `2022, London`
-__Machine Learning Engineer, Climate Change Engineering, Meta__
-- Starting Meta's effort in contributing to climate change adaptation and mitigation. High quality climate content understanding and distribution, natural distaster and crisis response, climate science education and others.
+__Machine Learning Engineer, Climate Products, Meta__
+- Starting Meta Climate Products team effort in contributing to climate change adaptation and mitigation. High quality climate content understanding and distribution, natural distaster and crisis response, climate science education and others.
 
 `2021, London` __Machine Learning Engineer, Video Machine Learning, Facebook__
 - Developed video understand models to improve production embeddings of all Facebook videos
@@ -46,13 +50,19 @@ __Politecnico di Milano__
 __Shanghai Tongji University (上海同济大学)__
 - Bachelor of Information Technology Engineering
 
-## Side Projects
+## Other Projects (main contributor/co-founder)
 
-__Co-Founder at theselfdrivingboat.com__
+__ecocheckr.com__
+- Grammarly for Environmental Claims: evaluate any environmental claim against regulatory guidelines, powered by GPT-4 and Constitutional AI
+
+__readtrellis.com__
+- GPT4 powered textbook reader, 5000 users launch on Product Hunt https://www.producthunt.com/products/trellis#trellis
+
+__theselfdrivingboat.com__
 - developed solar powered self driving boat as a proof of concept of zero-emission shipping technology
 
-__Co-Founder and CTO, habiter.app__
-- ed-tech startup profitable with 600 users selected for the interview round at incubator Y Combinator
+__habiter.app__
+- ed-tech startup profitable with 600 users selected for the interview round at incubator Y Combinator W19
 
 __Chinese Mandarin HSK Proficiency Exam Level 5 ( 汉语水平考试 5)__
 - Proficient in both written and spoken mandarin at level C1 level of the Common European Framework of Reference for Languages
