@@ -5,8 +5,8 @@ title: Alessandro Solbiati's CV
 # Alessandro Solbiati
 <div id="webaddress">
 <a href="alessandro.solbiati@gmail.com">alessandro.solbiati@gmail.com</a>
-| <a href="https://lessand-ro.onrender.com">https://lessand-ro.onrender.com</a>
-| +447799648936
+| <a href="http://solbiatialessand.ro">http://solbiatialessand.ro</a>
+| +12065321138
 </div>
 
 ## Experience
@@ -50,7 +50,9 @@ __Politecnico di Milano__
 __Shanghai Tongji University (上海同济大学)__
 - Bachelor of Information Technology Engineering
 
-## Other Projects (main contributor/co-founder)
+## Other Projects 
+
+I was main contributor/co-founder on all of these, for more see <a href="http://solbiatialessand.ro">http://solbiatialessand.ro</a>
 
 __ecocheckr.com__
 - Grammarly for Environmental Claims: evaluate any environmental claim against regulatory guidelines, powered by GPT-4 and Constitutional AI
